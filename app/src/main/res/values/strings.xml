@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">dilakshika</string>
+    <string name="un">username</string>
+    <string name="pw">password</string>
+    <string name="register">register</string>
+    <string name="login">login</string>
+    <string name="student">student</string>
+</resources>
